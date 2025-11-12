@@ -1,4 +1,4 @@
-# 🔍 find_byte_sequence
+# 🔍 find-byte-sequence
 
 A standalone Python tool for scanning binary files for multiple byte sequences that appear close together.  
 Supports order-enforced or unordered matching, configurable proximity, and optional logging.
